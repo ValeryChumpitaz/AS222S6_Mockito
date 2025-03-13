@@ -181,7 +181,7 @@ public class TaskServiceTest {
 ## 🚀 Ejecución del Proyecto
 1. Clonar el repositorio
 ```sh
-git clone https://github.com/tu-repo/mockito-tests.git
+git clone https://github.com/tu-repo/AS222S6_Mockito.git
 cd mockito-tests
 ```
 2. Ejecutar las pruebas
